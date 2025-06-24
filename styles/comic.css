@@ -42,7 +42,7 @@
         padding: 15px 40px;
         font-size: 15px;
         background: rgb(48, 255, 145);
-        transition: .2s ease-in-out;
+        transition: filter .2s ease-in-out;
         color: black;
         text-decoration: none;
         cursor: pointer;
